@@ -1,1 +1,1 @@
-# nn-mnist
+# convolutional neural networks 
